@@ -1,0 +1,46 @@
+2025-04-17 19:28:30,852 - INFO - Loaded folder names: {'csv': 'csv files', 'xlsx': 'excel files', 'xls': 'excel files', 'json': 'json files', 'txt': 'documents', 'pdf': 'documents', 'docx': 'documents', 'doc': 'documents', 'zip': 'compressed files', 'rar': 'compressed files', 'tar': 'compressed files', 'gz': 'compressed files', '7z': 'compressed files', 'jpg': 'image files', 'jpeg': 'image files', 'png': 'image files', 'mp4': 'video files', 'avi': 'video files', 'mov': 'video files', 'mp3': 'audio files', 'wav': 'audio files', 'pptx': 'powerpoint files', 'ppt': 'powerpoint files', 'exe': 'program files', 'html': 'web files', 'css': 'web files', 'js': 'web files', 'xml': 'web files'}
+2025-04-17 19:28:30,853 - INFO - Skipping folder: audio files
+2025-04-17 19:28:30,853 - INFO - Skipping folder: compressed files
+2025-04-17 19:28:30,853 - INFO - Skipping folder: csv files
+2025-04-17 19:28:30,853 - INFO - Skipping folder: documents
+2025-04-17 19:28:30,899 - INFO - Moved file: E-zx92tXIAc6URC.jpglarge to unknown folder
+2025-04-17 19:28:30,899 - INFO - Skipping folder: excel files
+2025-04-17 19:28:30,922 - INFO - Moved file: FC6ewejXoAgs5PJ.jpeg to image files
+2025-04-17 19:28:30,947 - INFO - Moved file: hq720.jpg to image files
+2025-04-17 19:28:30,947 - INFO - Skipping folder: image files
+2025-04-17 19:28:30,947 - INFO - Skipping folder: json files
+2025-04-17 19:28:30,947 - INFO - Skipping folder: other files
+2025-04-17 19:28:30,948 - INFO - Skipping folder: powerpoint files
+2025-04-17 19:28:30,972 - INFO - Moved file: pro-103-janeway-pitch-1.jpg to image files
+2025-04-17 19:28:30,973 - INFO - Skipping folder: program files
+2025-04-17 19:28:31,008 - INFO - Moved file: ProtostarNX-2024.07.09b.png to image files
+2025-04-17 19:28:31,044 - INFO - Moved file: Protostar_drive_deployed.jpg to image files
+2025-04-17 19:28:31,079 - INFO - Moved file: star-trek-prodigy-opening-header.jpg to image files
+2025-04-17 19:28:31,115 - INFO - Moved file: star-trek-prodigy-protostar-class.zip to compressed files
+2025-04-17 19:28:31,140 - INFO - Moved file: sylvain-sarrailh-prodigyf.jpg to image files
+2025-04-17 19:28:31,140 - INFO - Skipping folder: unknown
+2025-04-17 19:28:31,175 - INFO - Moved file: uss-prodigy-at-starfleet-hq.jpg to image files
+2025-04-17 19:28:31,200 - INFO - Moved file: uss-prodigy-ncc-81084-star-trek-prodigy-season-02-v0-iv92zip1pidd1.jpeg to image files
+2025-04-17 19:28:31,225 - INFO - Moved file: USS_Protostar.jpg to image files
+2025-04-17 19:28:31,260 - INFO - Moved file: USS_Protostar_with_proto-drive_enabled.jpg to image files
+2025-04-17 19:28:31,260 - INFO - Skipping folder: video files
+2025-04-17 19:28:31,261 - INFO - Skipping folder: web files
+2025-04-17 19:28:31,296 - INFO - Moved file: YTU0MjkzMTAtZjkxMy00MzYxLWFkMzktZTU2OGQ1MGM4YmU5_01_perfect_landing.00_00_17_04.still002.jpg to image files
+2025-04-17 19:28:31,297 - INFO - Skipping folder: zip files
+2025-04-17 19:57:11,270 - INFO - App Name: File Sorting Tool
+2025-04-17 19:57:11,270 - INFO - File Sorting Tool v1.0.0 by Lv_Mveexus
+2025-04-17 19:57:11,271 - INFO - Loaded folder names: {'csv': 'csv files', 'xlsx': 'excel files', 'xls': 'excel files', 'json': 'json files', 'txt': 'documents', 'pdf': 'documents', 'docx': 'documents', 'doc': 'documents', 'zip': 'compressed files', 'rar': 'compressed files', 'tar': 'compressed files', 'gz': 'compressed files', '7z': 'compressed files', 'jpg': 'image files', 'jpeg': 'image files', 'png': 'image files', 'mp4': 'video files', 'avi': 'video files', 'mov': 'video files', 'mp3': 'audio files', 'wav': 'audio files', 'pptx': 'powerpoint files', 'ppt': 'powerpoint files', 'exe': 'program files', 'html': 'web files', 'css': 'web files', 'js': 'web files', 'xml': 'web files'}
+2025-04-17 19:57:11,271 - INFO - Skipping folder: audio files
+2025-04-17 19:57:11,272 - INFO - Skipping folder: compressed files
+2025-04-17 19:57:11,272 - INFO - Skipping folder: csv files
+2025-04-17 19:57:11,272 - INFO - Skipping folder: documents
+2025-04-17 19:57:11,272 - INFO - Skipping folder: excel files
+2025-04-17 19:57:11,415 - INFO - Moved file: file_sorting_tool.log to unknown folder
+2025-04-17 19:57:11,415 - INFO - Skipping folder: image files
+2025-04-17 19:57:11,416 - INFO - Skipping folder: json files
+2025-04-17 19:57:11,417 - INFO - Skipping folder: other files
+2025-04-17 19:57:11,418 - INFO - Skipping folder: powerpoint files
+2025-04-17 19:57:11,418 - INFO - Skipping folder: program files
+2025-04-17 19:57:11,419 - INFO - Skipping folder: unknown
+2025-04-17 19:57:11,420 - INFO - Skipping folder: video files
+2025-04-17 19:57:11,420 - INFO - Skipping folder: web files

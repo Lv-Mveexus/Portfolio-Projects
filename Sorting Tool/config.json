@@ -1,0 +1,33 @@
+{
+    
+    
+     "csv": "csv files",
+     "xlsx": "excel files",
+     "xls": "excel files",
+     "json": "json files",
+     "txt": "documents",
+     "pdf": "documents",
+     "docx": "documents",
+     "doc": "documents",
+     "zip": "compressed files",
+     "rar": "compressed files",
+     "tar": "compressed files",
+     "gz": "compressed files",
+     "7z": "compressed files",
+     "jpg": "image files",
+     "jpeg": "image files",
+     "png": "image files",
+     "mp4": "video files",
+     "avi": "video files",
+     "mov": "video files",
+     "mp3": "audio files",
+     "wav": "audio files",
+     "pptx": "powerpoint files",
+     "ppt": "powerpoint files",
+     "exe": "program files",
+     "html": "web files",
+     "css": "web files",
+     "js": "web files",
+     "xml": "web files"
+
+}
