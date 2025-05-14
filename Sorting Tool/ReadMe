@@ -1,0 +1,62 @@
+# File Sorting Tool
+
+by: Lv\_Mveexus
+
+## Introduction
+
+The File Sorting Tool is a simple yet powerful utility designed to help users organise their files efficiently. With a single command, it automatically categorises files into folders based on their file types, making it easier to maintain a clutter-free directory.
+
+## Features
+
+* Automatic sorting of files into folders by file type (e.g., images, documents, videos).
+* Customizable directory paths for sorting.
+* Supports a wide range of file types.
+* Lightweight and fast.
+* Can add it to your download manager to run after download completion
+* Can run the exe in the directory of your choice
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone [https://github.com/Lv-Mveexus/Portfolio-Projects.git]
+   ```
+2. Navigate to the project directory:
+
+   ```bash
+   cd Sorting-Tool
+   ```
+3. Install dependencies (if any):
+
+   ```bash
+   pip install -r requirements.txt  # For Python
+   ```
+
+## Usage
+
+1. Run the tool:
+
+   ```bash
+   python sorter.py  # For Python
+   node sorter.js    # For JavaScript
+   ```
+2. Specify the directory you want to sort.
+
+## Usage (EXE)
+
+1. Open the dist folder 
+2. Copy the File Sorting Tool.exe to the directory you want to sort
+3. Run the File Sorting Tool.exe
+
+## Customization
+
+* Modify the file types and destination folders in the configuration file (`config.json` or similar).
+
+## Contributing
+
+Contributions are welcome. Feel free to submit a pull request.
+
+## License
+
+This project is licensed under the General Public License.
