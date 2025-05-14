@@ -1,2 +1,2 @@
 # ignore files and folders in the build folder, including the build folder
-Sorting Tool/build
+build/
